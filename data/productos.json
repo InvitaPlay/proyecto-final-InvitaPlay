@@ -8,10 +8,10 @@
   },
   {
     "id": 2,
-    "nombre": "Invitación Comunión Santino",
+    "nombre": "Invitación Boda Camila y Tomas",
     "precio": 10000,
-    "imagen": "img/invitacion-comunion-santino.png",
-    "link": "https://invitacion-santino-comunion.netlify.app/"
+    "imagen": "img/invitacion-camila-tomas.png",
+    "link": "https://invitacion-camila-tomas-premium-plus.netlify.app/"
   },
   {
     "id": 3,

@@ -16,7 +16,7 @@ El sitio permite visualizar un catálogo de productos reales (invitaciones anima
 - Catálogo de productos dinámico cargado con `fetch()`
 - Carrito de compras con almacenamiento en `localStorage`
 - Total dinámico e interfaz intuitiva
-- Formulario de contacto funcional con [Formspree](https://formspree.io)
+- Formulario de contacto funcional con [Formspree](https://formspree.io/f/mdkzqyvw)
 - Buenas prácticas de accesibilidad y SEO básico
 
 ---
@@ -37,6 +37,10 @@ El sitio permite visualizar un catálogo de productos reales (invitaciones anima
 📦 proyecto-invitaplay
  ┣ 📂data
  ┃ ┗ 📜productos.json
+ ┣ 📂img
+ ┃ ┗ 📜invitacion-boda-natalia-facundo.png
+     📜invitacion-camila-tomas.png
+     📜invitacion-princesa-cumple.png
  ┣ 📜index.html
  ┣ 📜styles.css
  ┣ 📜script.js
@@ -47,9 +51,9 @@ El sitio permite visualizar un catálogo de productos reales (invitaciones anima
 
 ## 📡 Deploy del proyecto
 
-GitHub Pages: [https://tuusuario.github.io/proyecto-invitaplay](https://tuusuario.github.io/proyecto-invitaplay) *(Reemplazar con el link real)*
+GitHub Pages: https://invitaplay.github.io/proyecto-final-InvitaPlay/
 
-Carpeta Drive Pública: [https://drive.google.com/drive/folder/...](https://drive.google.com/drive/folder/...) *(Reemplazar con el link real)*
+
 
 ---
 
